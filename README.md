@@ -4,7 +4,7 @@ Android App Built During #30_Days_of_Kotlin
 ## Tech used
 - Android 
 - Kotlin
-- Corutines
+- Coroutines
 - OkHttp
 - GSON
 
