@@ -1,12 +1,9 @@
 package com.projects.coronafighter
 
-import android.app.Activity
-import android.os.Build
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.webkit.WebView
 import android.webkit.WebViewClient
-import androidx.annotation.RequiresApi
 import kotlinx.android.synthetic.main.activity_maps.*
 
 class mapsActivity : AppCompatActivity() {
@@ -21,5 +18,5 @@ class mapsActivity : AppCompatActivity() {
         val webSettings = mapWebView.settings
         webSettings.javaScriptEnabled = true
 
-        }
     }
+}
