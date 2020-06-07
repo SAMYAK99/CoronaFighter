@@ -12,17 +12,15 @@ Android App Built During #30_Days_of_Kotlin
 * Android version 5.0 and above
 
 ## Screenshots
-
-<img src="./Screenshot/1" height = "370" width="290">
 <table>
   <tr>
-    <td></td>
-    <td><img src="./Screenshots/2" height = "370" width="290"></td>
-    <td><img src="./Screenshots/3" height = "370" width="290"></td>
-  </tr>
+    <td><img src="./Screenshots/1.png" height = "500" width="300"></td>
+    <td><img src="./Screenshots/2.png" height = "500" width="300"></td>
+     <td><img src="./Screenshots/3.png" height = "500" width="300"></td>
+ </tr>
+ <table>
   <tr>
-    <td><img src="./Screenshots/4.jpg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/5.jpeg" height = "370" width="290"></td>
-  </tr>
-</table>
+    <td><img src="./Screenshots/4.png" height = "500" width="300"></td>
+    <td><img src="./Screenshots/5.png" height = "500" width="300"></td>
+ </tr>
 
