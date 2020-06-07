@@ -12,18 +12,17 @@ Android App Built During #30_Days_of_Kotlin
 * Android version 5.0 and above
 
 ## Screenshots
+
+<img src="./Screenshot/1" height = "370" width="290">
 <table>
   <tr>
-    <td><img src="./Screenshots/0.jpg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/1.jpg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/2.jpg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/3.jpg" height = "370" width="290"></td>
+    <td></td>
+    <td><img src="./Screenshots/2" height = "370" width="290"></td>
+    <td><img src="./Screenshots/3" height = "370" width="290"></td>
   </tr>
   <tr>
     <td><img src="./Screenshots/4.jpg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/10.jpeg" height = "370" width="290"></td>
     <td><img src="./Screenshots/5.jpeg" height = "370" width="290"></td>
-    <td><img src="./Screenshots/WhatsApp Image 2020-04-04 at 9.51.58 AM.jpeg" height = "370" width="290"></td>
   </tr>
 </table>
 
