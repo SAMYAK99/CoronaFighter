@@ -1,5 +1,6 @@
 # CoronaFighter
-Android App Built During #30_Days_of_Kotlin
+Android App Built During #30_Days_of_Kotlin .
+This is a simple android app that keep tracks the corona cases in different states of the country and the worldwide.
 
 ## Tech used
 - Android 
