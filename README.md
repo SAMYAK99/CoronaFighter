@@ -8,6 +8,7 @@ This is a simple android app that keep tracks the corona cases in different stat
 - Coroutines
 - OkHttp
 - GSON
+- LottIe Animations
 
 ## Requirements
 * Android version 5.0 and above
